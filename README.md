@@ -236,7 +236,7 @@ To contribute:
 
 ## License
 
-MIT — see LICENSE file (or add one if missing).
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
@@ -245,6 +245,3 @@ MIT — see LICENSE file (or add one if missing).
 - This repository was adapted for Sepolia. Make sure your tooling and RPC endpoints support Sepolia.
 - The subgraph only indexes events after the configured `startBlock`.
 
-Happy building! If you'd like, I can:
-- open a PR applying this README to the repo, or
-- generate a shorter README tailored for a one-page project summary.
